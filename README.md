@@ -1,2 +1,17 @@
-# roommate-laravel-app
-Laravel MVC application for managing shared house chores and expenses.
+# Room Mate
+
+Room Mate is a Laravel MVC web application for managing shared house chores and expenses.
+
+## Features
+- User authentication
+- Chore management
+- Expense tracking
+- Role-based access
+- Dashboard
+
+## Tech Stack
+- Laravel
+- PHP
+- MySQL
+- Blade
+- GitHub
